@@ -1,5 +1,7 @@
 site_name: Luohe High School
-copyright: Copyright &copy; 2002 - 2021 漯河市高级中学
+copyright: Copyright &copy; 2002 - 2021 漯河市高级中学 | Copyright &copy; 2024 Luohe-Senior-School
+repo_name: Luohe-Senior-School/Luohe-Senior-School.github.io
+repo_url: https://github.com/Luohe-Senior-School/Luohe-Senior-School.github.io
 theme:
   name: material
   language: zh
