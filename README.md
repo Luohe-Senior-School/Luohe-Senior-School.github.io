@@ -1,2 +1,3 @@
 # Luohe-Senior-School.github.io
-Luohe High School website
+
+Luohe High School website (Unofficial)
