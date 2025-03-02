@@ -37,7 +37,11 @@ theme:
 nav:
   - 主页: index.md
   - 学校档案: 
-  - 关于漯高: about_school.md
+    - school_archive/about_school.md
+    - 班级: school_archive/class/index.md
+    - 建筑: school_archive/buildings/index.md
+    - 教师: school_archive/teacher/index.md
+    - 职工: school_archive/non_teacher/index.md
   - 其他:
     - 高校链接: university_links.md
     - 关于此网站: about_website.md
