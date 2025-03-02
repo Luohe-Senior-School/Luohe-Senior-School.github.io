@@ -2,7 +2,7 @@
 
 # 欢迎来到 漯高档案库
 
-先从认识我们的漯高开始叭 owo [关于本学校](./about_school.md)
+先从认识我们的漯高开始叭 owo [关于本学校](./school_archive/about_school.md)
 
 ## 其他信息
 

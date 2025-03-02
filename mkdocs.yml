@@ -38,7 +38,11 @@ nav:
   - 主页: index.md
   - 学校档案: 
     - school_archive/about_school.md
-    - 班级: school_archive/class/index.md
+    - 班级: 
+      - school_archive/class/index.md
+      - 高一: school_archive/class/grade1.md
+      - 高二: school_archive/class/grade2.md
+      - 高三: school_archive/class/grade3.md
     - 建筑: school_archive/buildings/index.md
     - 教师: school_archive/teacher/index.md
     - 职工: school_archive/non_teacher/index.md
