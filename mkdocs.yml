@@ -1,4 +1,4 @@
-site_name: Luohe High School
+site_name: 漯高档案库 󰀼
 copyright: Copyright &copy; 2002 - 2021 漯河市高级中学 | Copyright &copy; 2024 Luohe-Senior-School
 repo_name: Luohe-Senior-School/Luohe-Senior-School.github.io
 repo_url: https://github.com/Luohe-Senior-School/Luohe-Senior-School.github.io
@@ -21,12 +21,14 @@ theme:
         name: Switch to light mode
       primary: green
       accent: light green
+  
   features:
     - content.action.edit
     - search.suggest
     - search.highlight
     - navigation.tabs
     - header.autohide
+  
   icon:
     repo: fontawesome/brands/git-alt
     edit: material/pencil
@@ -34,7 +36,9 @@ theme:
 
 nav:
   - 主页: index.md
-  - 漯高事件表: event.md
-  - 高校链接: university_links.md
-  - 关于此网站: about_website.md
-
+  - 学校档案: 
+  - 关于漯高: about_school.md
+  - 其他:
+    - 高校链接: university_links.md
+    - 关于此网站: about_website.md
+    - 关于我们: about_us.md
