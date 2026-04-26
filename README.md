@@ -20,4 +20,4 @@ This project exists thanks to all the people who contribute.
 
 Copyright © 2024 Luohe-Senior-School, All rights reserved.
 
-This project is licensed under the MIT License.
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
