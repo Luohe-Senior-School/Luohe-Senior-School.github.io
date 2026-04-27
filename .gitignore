@@ -20,5 +20,7 @@
 !docs/css/
 !docs/css/*.css
 
+!docs/CNAME
+
 !docs/school_archive/
 !docs/school_archive/**
