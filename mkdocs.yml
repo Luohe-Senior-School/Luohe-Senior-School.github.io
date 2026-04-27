@@ -38,6 +38,9 @@ theme:
     edit: material/pencil
     view: material/eye
 
+extra_css:
+  - css/custom.css
+
 plugins:
   - search
   - tags

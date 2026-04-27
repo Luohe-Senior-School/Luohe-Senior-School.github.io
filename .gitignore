@@ -17,5 +17,8 @@
 !docs/blog/posts/
 !docs/blog/posts/*.md
 
+!docs/css/
+!docs/css/*.css
+
 !docs/school_archive/
 !docs/school_archive/**
