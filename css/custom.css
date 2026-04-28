@@ -1,0 +1,15 @@
+@import url('https://fonts.loli.net/css2?family=Noto Sans SC&display=swap');
+@import url('https://fonts.loli.net/css2?family=Noto Serif SC&display=swap');
+
+@import url('https://fonts.loli.net/css2?family=Roboto Slab&display=swap');
+@import url('https://fonts.loli.net/css2?family=Roboto&display=swap');
+
+@font-face {
+	font-family: "Roboto";
+	src: "https://fonts.loli.net/css2?family=Roboto&display=swap";
+}
+
+:root {
+	--md-text-font: "Roboto";
+	--md-code-font: "Roboto";
+}
