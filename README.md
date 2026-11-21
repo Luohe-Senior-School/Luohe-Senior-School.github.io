@@ -1,6 +1,6 @@
 # Luohe Senior High School Archive
 
-This is the repository of the `Luohe Senior High School Archive` or `漯高档案库` website
+This is the repository of the `Luohe Senior High School Archive` or `漯高档案库` website.
 
 ## Star History
 
